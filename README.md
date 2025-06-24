@@ -63,7 +63,7 @@ The script prints:
 
 ## File Structure
 - `ssh_log_analyzer.py` — Main script for log analysis
-- `OpenSSH_2k.log` — Example log file (not included)
+- `OpenSSH_2k.log` — Example log file
 
 ## License
 This project is provided for educational and security research purposes. Use responsibly.
